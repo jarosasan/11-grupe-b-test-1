@@ -7,3 +7,17 @@ div{
     border-radius: 3px;
     text-align: center;
 }
+
+div h1{
+    display: inline-block;
+    font-size: 50px;
+    color: gray;
+}
+
+div p {
+    display: inline-block;
+    width: 100%;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+}
